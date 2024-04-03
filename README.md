@@ -1,5 +1,5 @@
 # Cezar de Souza Carvalho 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo(a)+ao+meu+Portifólio!)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-IA-Generativa/assets/158849910/9560665e-253f-4484-974d-d8bbaf206a2f" width="250px" />
 </div>
@@ -43,9 +43,7 @@ Fev 24   | Jul 27  |
 ## 📱 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/cezardesouzacarvalhoti)
-<a href=mailto:cezar.souza03@gmail.com>
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:cezar.souza03@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988541006)
 
 
