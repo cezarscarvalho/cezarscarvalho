@@ -41,7 +41,7 @@ Soft Skills: Gestão de crises, atendimento especializado e suporte operacional.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988541006)
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=[logica-programacao-portugol]-Generativa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/logica-programacao-portugol)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=logica-programacao-portugol&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/logica-programacao-portugol)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Microsoft-IA-Generativa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-IA-Generativa)
 
