@@ -28,11 +28,30 @@ Soft Skills: Gestão de crises, atendimento especializado e suporte operacional.
 📚 Inglês - Básico/Técnico (Focado em leitura de documentação técnica e manuais)
 
 
-## 📱 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:cezar.souza03@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988541006)
 
+
+### 📱  Contato
+
+
+<div>
+  <a href="https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:cezar.souza03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://wa.me/5511988541006?text=Ol%C3%A1%2C%20vi%20o%20seu%20portif%C3%B3lio%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20o%20seu%20perfil%20profissional." target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+  </a>
+  </a>
+</div>
+
+
+
+
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=sistema-operacional-linux&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/sistema-operacional-linux)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=logica-programacao-portugol&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/logica-programacao-portugol)
 
