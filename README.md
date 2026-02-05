@@ -43,11 +43,11 @@ Atualmente, estou finalizando minha graduação em **Gestão de Tecnologia da In
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Azure-Microsoft-Machine-Learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Machine-Learning)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Microsoft-IA-Generativa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-IA-Generativa)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Azure-Microsoft-Machine-Learning&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Machine-Learning)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Microsoft-IA-Generativa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-IA-Generativa)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Microsoft-Cognitive&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Azure-Microsoft-Vision&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Vision)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Microsoft-Cognitive&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cezarscarvalho&repo=DIO-Projeto-Azure-Microsoft-Vision&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Vision)
 
 </div>
 
